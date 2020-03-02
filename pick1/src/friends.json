@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Deadpool",
+        "image": "https://cnet4.cbsistatic.com/img/NN7dO_6myQ1qv3rYh2Pa9EeWscI=/1092x0/2018/05/24/28ddccdb-2ae1-4d0f-ada8-c0ecc66b045e/deadpool-can.jpg",
+        "occupation": "pretty cool dead guy",
+        "location": "kicking ass"
+    },
+    {
+        "id": 2,
+        "name": "Spiderman",
+        "image": "https://media.comicbook.com/2019/06/mcu-spider-man-venom-comicbookcom-1176731-1280x0.jpeg",
+        "occupation": "your friendly neighborhood Spider Man",
+        "location": "New York"
+    }
+]
