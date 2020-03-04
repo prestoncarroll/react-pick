@@ -12,5 +12,26 @@
         "image": "https://media.comicbook.com/2019/06/mcu-spider-man-venom-comicbookcom-1176731-1280x0.jpeg",
         "occupation": "your friendly neighborhood Spider Man",
         "location": "New York"
+    },
+    {
+        "id": 3,
+        "name": "Captain America",
+        "image": "https://img1.looper.com/img/gallery/rumor-report-is-marvel-really-making-captain-america-4/intro-1571140919.jpg",
+        "occupation": "winter solider",
+        "location": "Avengers tower"
+    },
+    {
+        "id": 4,
+        "name": "Hulk",
+        "image": "https://cdn1.thr.com/sites/default/files/2016/10/hulk_vs_thing.jpg",
+        "occupation": "hulk smash",
+        "location": "Avengers tower"
+    },
+    {
+        "id": 5,
+        "name": "mysterio",
+        "image": "https://img1.looper.com/img/gallery/the-untold-truth-of-mysterio/intro-1547663299.jpg",
+        "occupation": "winter solider",
+        "location": "Avengers tower"
     }
 ]
