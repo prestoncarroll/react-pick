@@ -8,7 +8,9 @@ function FriendCard(props) {
     return (
 
         
-        <div className="card">
+
+
+        <div className="card" onClick={() => props.setScore(props.score + 1)}>
             <div className="img-container">
                 <img alt={props.name} src={props.image} />
             </div>
@@ -26,7 +28,7 @@ function FriendCard(props) {
                 </ul>
             </div> */}
         </div>
-       
+
     );
 }
 
