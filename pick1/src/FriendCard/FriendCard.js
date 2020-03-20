@@ -5,6 +5,8 @@ import "./style.css";
 
 function FriendCard(props) {
 
+    console.log(props.id)
+
     return (
 
         
